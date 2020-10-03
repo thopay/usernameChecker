@@ -1,6 +1,5 @@
 import requests, re, json, time
 from colorama import init, Fore
-from bs4 import BeautifulSoup
 init(autoreset=True)
 
 headers = {
