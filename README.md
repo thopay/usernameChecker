@@ -7,12 +7,11 @@
   <p align="center">
     Just a username checker.
     <br />
-    <a href="https://github.com/th-ms/usernameChecker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/usernameChecker"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://github.com/thopay/usernameChecker">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/usernameChecker">Report Bug</a>
-    ·
-    <a href="https://github.com/th-ms/usernameChecker">Request Feature</a>
+    <a href="https://github.com/thopay/usernameChecker">Request Feature</a>
   </p>
 </p>
 
@@ -55,7 +54,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/usernameChecker.git
+git clone https://github.com/thopay/usernameChecker.git
 ```
 2. Install pip packages
 ```sh
@@ -93,4 +92,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/usernameChecker](https://github.com/th-ms/usernameChecker)
+Project Link: [https://github.com/thopay/usernameChecker](https://github.com/thopay/usernameChecker)
